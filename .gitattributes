@@ -1,0 +1,5 @@
+# Change Lua line endings to LF
+*.lua text=auto
+*.lua eol=lf
+*.md text=auto
+*.md eol=lf
